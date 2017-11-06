@@ -13,4 +13,6 @@ first configure the API line with your rocketchat username and password, and ser
     Private rooms:
     Name: private1, ID: 2zsYWT5FrahC45GM
     
-Modify 
+Modify the same line `api = ` within `sab-rocketchat-notify.py`
+
+copy `sab-rocketchat-notify.py` file to `/home/<user>/SABnzbd/scripts` and select from within sabnzbd.
