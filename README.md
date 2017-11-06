@@ -2,7 +2,7 @@
 
 ![alt text](https://i.imgur.com/OSlxXdl.png)
 
-Looking for a simple bot to post to a rocket.chat channel within my RC server. Here it is.
+I was looking for a simple bot to post to a rocket.chat channel within my RC server when Sabnzbd finished a download. Here it is!
     
     sudo python -m pip install rocket-python
 
